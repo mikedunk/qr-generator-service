@@ -1,0 +1,6 @@
+*.env
+config/_config.json
+.DS_Store
+repo*
+.vscode/
+/logo_2.png
